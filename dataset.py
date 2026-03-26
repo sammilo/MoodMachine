@@ -50,6 +50,15 @@ SAMPLE_POSTS = [
     "This is fine",
     "So excited for the weekend",
     "I am not happy about this",
+    "I made an awfully great meal today",
+    "Lowkey stressed but kind of proud of myself",
+    "I love when my entire paycheck gets depleted by rent 🤩",
+    "I'm not really sure how I feel about this... 😕",
+    "Your outfit looks wonderfully dumb",
+    "I'm going to sleep on the highway tonight, no cap",
+    "OMG YES, I WOULD LOVE FOR THE GOVERNMENT TO RAISE MY TAXES 😂",
+    "This game is terrifyingly fun",
+    "It was an okay movie",
 ]
 
 # Human labels for each post above.
@@ -65,6 +74,15 @@ TRUE_LABELS = [
     "neutral",   # "This is fine"
     "positive",  # "So excited for the weekend"
     "negative",  # "I am not happy about this"
+    "positive",  # "I made an awfully great meal today"
+    "mixed",     # "Lowkey stressed but kind of proud of myself"
+    "negative",  # "I love when my entire paycheck gets depleted by rent 🤩"
+    "mixed",     # "I'm not really sure how I feel about this... 😕"
+    "negative",  # "Your outfit looks wonderfully dumb"
+    "negative",  # "I'm going to sleep on the highway tonight, no cap"
+    "negative",  # "OMG YES, I WOULD LOVE FOR THE GOVERNMENT TO RAISE MY TAXES 😂"
+    "positive",     # "This game is terrifyingly fun"
+    "neutral",   # "It was an okay movie"
 ]
 
 # TODO: Add 5-10 more posts and labels.
